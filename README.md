@@ -23,7 +23,7 @@ Questa è una selezione dei miei progetti di automazione e sviluppo. Il codice s
   <tr>
     <td width="50%" valign="top">
       <h4>1. SD Organizer (Gestione Foto)</h4>
-      <p>Applicativo Python (con GUI) per automatizzare l'organizzazione, la rinomina e il backup di shooting fotografici, risolvendo il problema dell'ordinamento manuale. Utilizza database SQLite per catalogare i metadati[cite: 383].</p>
+      <p>Applicativo Python (con GUI) per automatizzare l'organizzazione, la rinomina e il backup di shooting fotografici, risolvendo il problema dell'ordinamento manuale. Utilizza database SQLite per catalogare i metadati.</p>
       <p><b>[Guarda la Demo su YouTube]</b><i>(<- Inserisci il tuo link YouTube)</i></p>
     </td>
     <td width="50%" valign="top">
