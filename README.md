@@ -24,24 +24,20 @@ Questa è una selezione dei miei progetti di automazione e sviluppo. Il codice s
     <td width="50%" valign="top">
       <h4>1. SD Organizer (Gestione Foto)</h4>
       <p>Applicativo Python (con GUI) per automatizzare l'organizzazione, la rinomina e il backup di shooting fotografici, risolvendo il problema dell'ordinamento manuale. Utilizza database SQLite per catalogare i metadati.</p>
-      <p><b>[Guarda la Demo su YouTube]</b><i>(<- Inserisci il tuo link YouTube)</i></p>
     </td>
     <td width="50%" valign="top">
       <h4>2. Registro Presenze (Automazione HR)</h4>
       <p>Soluzione (basata su Python/PyQt) per la gestione di registri presenze formativi, con generazione automatica di report PDF, risolvendo l'inefficienza dei fogli Excel manuali.</p>
-      <p><b>[Guarda la Demo su YouTube]</b><i>(<- Inserisci il tuo link YouTube)</i></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>3. Database per Editore (Automazione Aziendale)</h4>
+      <h4>3. Database Narranti.it (Automazione Aziendale)</h4>
       <p>Script Python per sostituire un database critico basato su Excel, eliminando il rischio di corruzione dati e automatizzando l'esportazione di report PDF.</p>
-      <p><b>[Repository Privato]</b></p>
     </td>
     <td width="50%" valign="top">
       <h4>4. Generatore Ritenute d'Acconto (Utility Fiscale)</h4>
       <p>Tool per automatizzare la creazione di ricevute per prestazione occasionale, calcolando automaticamente importi e generando PDF pronti da inviare.</p>
-      <p><b>[Guarda la Demo su YouTube]</b><i>(<- Inserisci il tuo link YouTube)</i></p>
     </td>
   </tr>
 </table>
