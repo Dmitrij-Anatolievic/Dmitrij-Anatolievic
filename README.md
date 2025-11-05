@@ -40,6 +40,11 @@ Questa è una selezione dei miei progetti di automazione e sviluppo. Il codice s
       <p>Tool per automatizzare la creazione di ricevute per prestazione occasionale, calcolando automaticamente importi e generando PDF pronti da inviare.</p>
     </td>
   </tr>
+  <td width="50%" valign="top">
+      <h4>5. CV Generator (ATS-Optimized)</h4>
+      <p>Progetto "meta" che ho usato per costruire il mio CV. Un'app che genera PDF ottimizzati per i filtri ATS, con 50 temi e un database SQLite sicuro (checksum SHA-256).</p>
+    </td>
+  </tr>
 </table>
 
 ---
