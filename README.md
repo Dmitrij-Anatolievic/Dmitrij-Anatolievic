@@ -26,7 +26,7 @@ Vengo da circa dieci anni di **IT service desk** (bancario, telco, PA) e sono la
 fotografia sperimentale e sulla certificazione delle opere, pubblicata su Zenodo con DOI.
 
 **Software**
-- [**gnirehtet-gui**](https://github.com/Dmitrij-Anatolievic/gnirehtet-gui): interfaccia grafica per gnirehtet, internet del PC al telefono Android via USB. Windows/Linux, release pronte.
+- [**Pupovina**](https://github.com/Dmitrij-Anatolievic/pupovina): reverse tethering per Android via USB, interfaccia grafica per gnirehtet. Windows/Linux, release pronte.
 - [**SD-Organizer**](https://github.com/Dmitrij-Anatolievic/SD-Organizer): importa, rinomina, deduplica e verifica gli scatti dalle schede SD.
 - [**Registro-Presenze-GOL**](https://github.com/Dmitrij-Anatolievic/Registro-Presenze-GOL): registri formativi immodificabili, con audit e report PDF.
 - [**Database-Narranti**](https://github.com/Dmitrij-Anatolievic/Database-Narranti): gestionale per artisti, opere e mostre (SQLite, PDF).
@@ -48,7 +48,7 @@ degree in **Environmental Sciences**. Alongside the code I carry out **independe
 experimental photography and artwork certification, published on Zenodo with DOIs.
 
 **Software**
-- [**gnirehtet-gui**](https://github.com/Dmitrij-Anatolievic/gnirehtet-gui): GUI for gnirehtet, sharing the PC's internet with an Android phone over USB. Windows/Linux, ready-made releases.
+- [**Pupovina**](https://github.com/Dmitrij-Anatolievic/pupovina): reverse tethering for Android over USB, a GUI for gnirehtet. Windows/Linux, ready-made releases.
 - [**SD-Organizer**](https://github.com/Dmitrij-Anatolievic/SD-Organizer): imports, renames, deduplicates and verifies photos from SD cards.
 - [**Registro-Presenze-GOL**](https://github.com/Dmitrij-Anatolievic/Registro-Presenze-GOL): tamper-evident training attendance registers with audit trail and PDF reports.
 - [**Database-Narranti**](https://github.com/Dmitrij-Anatolievic/Database-Narranti): catalogue manager for artists, artworks and exhibitions (SQLite, PDF).
@@ -71,7 +71,7 @@ experimental photography and artwork certification, published on Zenodo with DOI
 публикации — на Zenodo с DOI.
 
 **Программы**
-- [**gnirehtet-gui**](https://github.com/Dmitrij-Anatolievic/gnirehtet-gui): графический интерфейс для gnirehtet — интернет компьютера на Android-телефоне через USB. Windows/Linux, готовые сборки.
+- [**Пуповина (Pupovina)**](https://github.com/Dmitrij-Anatolievic/pupovina): обратный тетеринг для Android через USB, графический интерфейс для gnirehtet. Windows/Linux, готовые сборки.
 - [**SD-Organizer**](https://github.com/Dmitrij-Anatolievic/SD-Organizer): импорт, переименование, поиск дубликатов и проверка снимков с SD-карт.
 - [**Registro-Presenze-GOL**](https://github.com/Dmitrij-Anatolievic/Registro-Presenze-GOL): журналы посещаемости курсов, защищённые от изменений, с аудитом и отчётами в PDF.
 - [**Database-Narranti**](https://github.com/Dmitrij-Anatolievic/Database-Narranti): учёт художников, работ и выставок (SQLite, PDF).
