@@ -20,7 +20,7 @@
 ## Italiano
 
 Scrivo software desktop in **Python/PyQt** che risolve problemi concreti: archiviazione
-fotografica, registri con valore probatorio, gestionali per editori, reverse tethering Android.
+fotografica, simulazione di pellicole analogiche, registri con valore probatorio, gestionali per editori, reverse tethering Android.
 Vengo da circa dieci anni di **IT service desk** (bancario, telco, PA) e sono laureato in
 **Scienze Ambientali**. Accanto al codice porto avanti una **ricerca indipendente** sulla
 fotografia sperimentale e sulla certificazione delle opere, pubblicata su Zenodo con DOI.
@@ -32,6 +32,10 @@ fotografia sperimentale e sulla certificazione delle opere, pubblicata su Zenodo
 - [**Database-Narranti**](https://github.com/Dmitrij-Anatolievic/Database-Narranti): gestionale per artisti, opere e mostre (SQLite, PDF).
 - [**Generatore-Ritenuta-Acconto**](https://github.com/Dmitrij-Anatolievic/Generatore-Ritenuta-Acconto) e [**CV-Generator-ATS-Optimized**](https://github.com/Dmitrij-Anatolievic/CV-Generator-ATS-Optimized): ricevute e CV in PDF generati in automatico.
 
+**Fotografia e pellicola**
+- [**polaroid-simulator**](https://github.com/Dmitrij-Anatolievic/polaroid-simulator): simulatore Polaroid (Reclaimed, Duochrome, Color 600) con curve misurate da scansioni reali, cornici e inquadratura interattiva.
+- [**lomochrome-simulator**](https://github.com/Dmitrij-Anatolievic/lomochrome-simulator): simulatore LomoChrome Purple, Turquoise, Metropolis e Lomography Color, con modelli ricavati da ColorChecker e coppie digitale/pellicola.
+
 **Ricerca**
 - [**sha256-cie-protocol**](https://github.com/Dmitrij-Anatolievic/sha256-cie-protocol): certificazione crittografica delle opere d'arte senza gallerie (SHA-256 + CIE).
 - [**fotocroismo-razbidtse**](https://github.com/Dmitrij-Anatolievic/fotocroismo-razbidtse): codice e dati del paper *Fotocroismo razbidtse* ([DOI](https://doi.org/10.5281/zenodo.19368645)).
@@ -42,7 +46,7 @@ fotografia sperimentale e sulla certificazione delle opere, pubblicata su Zenodo
 ## English
 
 I write **Python/PyQt** desktop software that solves concrete problems: photo archiving,
-tamper-evident registers, management tools for publishers, Android reverse tethering.
+analogue film simulation, tamper-evident registers, management tools for publishers, Android reverse tethering.
 I come from about ten years of **IT service desk** work (banking, telco, public sector) and hold a
 degree in **Environmental Sciences**. Alongside the code I carry out **independent research** on
 experimental photography and artwork certification, published on Zenodo with DOIs.
@@ -54,6 +58,10 @@ experimental photography and artwork certification, published on Zenodo with DOI
 - [**Database-Narranti**](https://github.com/Dmitrij-Anatolievic/Database-Narranti): catalogue manager for artists, artworks and exhibitions (SQLite, PDF).
 - [**Generatore-Ritenuta-Acconto**](https://github.com/Dmitrij-Anatolievic/Generatore-Ritenuta-Acconto) and [**CV-Generator-ATS-Optimized**](https://github.com/Dmitrij-Anatolievic/CV-Generator-ATS-Optimized): automatic PDF receipts and résumés.
 
+**Photography and film**
+- [**polaroid-simulator**](https://github.com/Dmitrij-Anatolievic/polaroid-simulator): Polaroid simulator (Reclaimed, Duochrome, Color 600) with film curves measured from real scans, frames and interactive framing.
+- [**lomochrome-simulator**](https://github.com/Dmitrij-Anatolievic/lomochrome-simulator): LomoChrome Purple, Turquoise, Metropolis and Lomography Color simulator, with models fitted on ColorChecker and digital/film pairs.
+
 **Research**
 - [**sha256-cie-protocol**](https://github.com/Dmitrij-Anatolievic/sha256-cie-protocol): cryptographic certification of artworks without galleries (SHA-256 + CIE).
 - [**fotocroismo-razbidtse**](https://github.com/Dmitrij-Anatolievic/fotocroismo-razbidtse): code and data for the paper *Fotocroismo razbidtse* ([DOI](https://doi.org/10.5281/zenodo.19368645)).
@@ -64,7 +72,7 @@ experimental photography and artwork certification, published on Zenodo with DOI
 ## Русский
 
 Я пишу десктопные программы на **Python/PyQt**, которые решают конкретные задачи: архивирование
-фотографий, защищённые от изменений журналы, учётные системы для издателей, обратный тетеринг
+фотографий, симуляция аналоговой плёнки, защищённые от изменений журналы, учётные системы для издателей, обратный тетеринг
 для Android. За плечами около десяти лет работы в **IT service desk** (банки, телеком, госсектор)
 и диплом по **экологии и наукам об окружающей среде**. Параллельно веду **независимые
 исследования** в области экспериментальной фотографии и сертификации произведений искусства;
@@ -77,6 +85,10 @@ experimental photography and artwork certification, published on Zenodo with DOI
 - [**Database-Narranti**](https://github.com/Dmitrij-Anatolievic/Database-Narranti): учёт художников, работ и выставок (SQLite, PDF).
 - [**Generatore-Ritenuta-Acconto**](https://github.com/Dmitrij-Anatolievic/Generatore-Ritenuta-Acconto) и [**CV-Generator-ATS-Optimized**](https://github.com/Dmitrij-Anatolievic/CV-Generator-ATS-Optimized): автоматическое создание квитанций и резюме в PDF.
 
+**Фотография и плёнка**
+- [**polaroid-simulator**](https://github.com/Dmitrij-Anatolievic/polaroid-simulator): симулятор Polaroid (Reclaimed, Duochrome, Color 600) с кривыми, измеренными по реальным сканам, рамками и интерактивным кадрированием.
+- [**lomochrome-simulator**](https://github.com/Dmitrij-Anatolievic/lomochrome-simulator): симулятор LomoChrome Purple, Turquoise, Metropolis и Lomography Color; модели построены по ColorChecker и парам «цифра/плёнка».
+
 **Исследования**
 - [**sha256-cie-protocol**](https://github.com/Dmitrij-Anatolievic/sha256-cie-protocol): криптографическая сертификация произведений искусства без галерей (SHA-256 + CIE).
 - [**fotocroismo-razbidtse**](https://github.com/Dmitrij-Anatolievic/fotocroismo-razbidtse): код и данные к статье *Fotocroismo razbidtse* ([DOI](https://doi.org/10.5281/zenodo.19368645)).
@@ -88,6 +100,7 @@ experimental photography and artwork certification, published on Zenodo with DOI
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/PyQt-41CD52?logo=qt&logoColor=white" alt="PyQt">
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
